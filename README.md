@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/a1/be/cb/a1becbd5b329954a2063f352beceef35.gif" height="80px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/freejooo/freejooo/main/Pixel%2Bgifs_b4e2c4_6919592.gif"  /></p>
 
 ```
 > I’m @freejooo
