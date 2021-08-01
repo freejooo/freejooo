@@ -1,11 +1,10 @@
-not my final thing lol
+<p align="center"><img src="https://i.pinimg.com/originals/a1/be/cb/a1becbd5b329954a2063f352beceef35.gif" height="80px" /></p>
 
-- 👋 Hi, I’m @freejooo
-- 👀 I’m interested in robotics and fun...
-- 🌱 I’m currently learning php idk...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+```
+> I’m @freejooo
+> i do OS-dev and bare-metal programming 
+> i like consenpt of deep wed idk why 
+```
 
 <p align="center">→ ⛧ tech i use ✨ ←</p>
 
