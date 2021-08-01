@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/freejooo/freejooo/main/Pixel%2Bgifs_b4e2c4_6919592.gif" width="1000" height="300" /></p>
-
+# Freejooo:-
 ```console
 freejooo@nardcart:~$ ./whoiam
 i do OS-dev and bare-metal programming 
@@ -11,7 +11,7 @@ freejooo@nardcart:~$ cat projects-active
 [Dashed Hosting](https://github.com/d-a-s-h-o/tor-php-hosting)
 [Freenet Hosting](https://github.com/freejooo/freenet-hosting-)
 [freejooo/heroku-vnc](https://github.com/freejooo/heroku-vnc)
-[freejooo/Markeasyblog](https://github.com/freejooo/heroku-vnc0
+[freejooo/Markeasyblog](https://github.com/freejooo/Markeasyblog)
 
 
 ```
