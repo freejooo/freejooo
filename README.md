@@ -13,9 +13,12 @@ not my final thing lol
   <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/vscode-icons:file-type-go-gopher.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" height="60px" width="60px" align="center" />
   <img src="https://api.iconify.design/logos:react.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-caddy.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-light-pnpm.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/file-icons:nextjs.svg" height="48px" width="48px" align="center" />
+  <img src="https://api.iconify.design/logos-tor.svg" height="60px" width="60px" align="center" />
+  <img src="https://api.iconify.design/bx:bxl-docker.svg" height="60px" width="60px" align="center" />
+  <img src="https://api.iconify.design/zondicons:php-elephant.svg" height="60px" width="60px" align="center" />
+  <img src="https://api.iconify.design/logos:kubernetes.svg" height="60px" width="60px" align="center" />
+  <a href="https://kooljool.keybase.pub/url/"><img src="https://kooljool.keybase.pub/url/favicon.ico" height="48px" width="48px" align="center" /></a>
   <img src="https://api.iconify.design/logos:graphql.svg" height="48px" width="48px" align="center" />
  </p>
