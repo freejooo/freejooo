@@ -10,6 +10,8 @@ i like consenpt of deep wed idk why
 freejooo@nardcart:~$ cat projects-active
 [Dashed Hosting](https://github.com/d-a-s-h-o/tor-php-hosting)
 [Freenet Hosting](https://github.com/freejooo/freenet-hosting-)
+[freejooo/heroku-vnc](https://github.com/freejooo/heroku-vnc)
+[freejooo/Markeasyblog](https://github.com/freejooo/heroku-vnc0
 
 
 ```
