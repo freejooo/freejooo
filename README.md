@@ -4,7 +4,7 @@
 ```console
 freejooo@nardcart:~$ ./whoiam
 i do OS-dev and bare-metal programming 
-i like consenpt of deep wed idk why 
+i like consent of deep wed idk why 
 ```
 
 # What i am working on:-
