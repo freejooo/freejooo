@@ -20,7 +20,6 @@ freejooo@nardcart:~$ cat projects-active
 <p align="center">
   <img src="https://api.iconify.design/logos:figma.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/logos:typescript-icon.svg" height="48px" width="48px" align="center" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-go-gopher.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" height="60px" width="60px" align="center" />
   <img src="https://api.iconify.design/logos:react.svg" height="48px" width="48px" align="center" />
   <img src="https://api.iconify.design/logos-tor.svg" height="60px" width="60px" align="center" />
